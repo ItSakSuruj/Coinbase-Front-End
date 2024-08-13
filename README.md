@@ -1,1 +1,1 @@
-Wallect Connect - UI- Front -End 
+WEeb3 Wallect Connect - UI- Front -End 
